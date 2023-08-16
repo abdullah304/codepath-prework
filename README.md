@@ -44,7 +44,7 @@ An app where networking is made easier and quick and more efficient in terms of 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting familiar with xcode and using swift for the first time was a bit tricky but fun!
 
 ## License
 
