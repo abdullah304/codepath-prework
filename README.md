@@ -2,7 +2,7 @@
 
 Submitted by: **Abdullah Saeed**
 
-**BackGround color changer** is an app that... [changes background color and counts how many times the backgroung gets changed] 
+**BackGround color changer** is an app that... [changes background color and counts how many times the background gets changed] 
 
 Time spent: **2** hours spent in total
 
@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///private/var/folders/p3/3jyqs42j59ng06l2ky2zw2yh0000gp/T/c5445fa1d1869c8578b7073125c180b2/Kapture%202023-08-15%20at%2017.46.06.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://i.imgur.com/JL1snRo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS-->
 
